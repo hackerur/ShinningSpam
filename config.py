@@ -11,11 +11,11 @@ logging.basicConfig(level=logging.WARNING)
 
 #----------------------------------- REQUIRED CODES --------------------------------------#
 
-API_ID = int(getenv("API_ID", "25981592"))
-API_HASH = getenv("API_HASH", "709f3c9d34d83873d3c7e76cdd75b866")
+API_ID = int(getenv("API_ID", ""))
+API_HASH = getenv("API_HASH", "")
 SESSION = getenv("SESSION", "altx131")
-ALIVE_PIC = getenv("ALIVE_PIC", "https://te.legra.ph/file/ab721701ce35ff2856276.jpg")
-OWNER_ID = int(getenv("OWNER_ID", "1410250744"))
+ALIVE_PIC = getenv("ALIVE_PIC", "https://graph.org/file/41c5a309eb44bf68cbf4b.jpg")
+OWNER_ID = int(getenv("OWNER_ID", "5626135018"))
 
 
 #-------------------------------- OPTIONAL -------------------------------------#
