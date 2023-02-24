@@ -19,7 +19,7 @@ async def raid(xspam: Client, e: Message):
           ok = await xspam.get_users(Hero[1])
           id = ok.id
           if int(id) in ALTS:
-                await e.reply_text("» ɴᴏ, ᴛʜɪꜱ ɢᴜʏ ɪꜱ ᴀʟᴛʀᴏɴ'ꜱ ᴏᴡɴᴇʀ")
+                await e.reply_text("» ɴᴏ, ᴛʜɪꜱ ɢᴜʏ ɪꜱ ʙᴏᴛ'ꜱ ᴏᴡɴᴇʀ")
           elif int(id) == OWNER_ID:
                 await e.reply_text("» ɴᴏ, ᴛʜɪꜱ ɢᴜʏ ɪꜱ ᴏᴡɴᴇʀ ᴏꜰ ᴛʜᴇ ʙᴏᴛꜱ.")
           elif int(id) in SUDO_USERS:
@@ -39,7 +39,7 @@ async def raid(xspam: Client, e: Message):
           ok = await xspam.get_users(user_id)
           id = ok.id
           if int(id) in ALTS:
-                await e.reply_text("» ɴᴏ, ᴛʜɪꜱ ɢᴜʏ ɪꜱ ᴀʟᴛʀᴏɴ'ꜱ ᴏᴡɴᴇʀ")
+                await e.reply_text("» ɴᴏ, ᴛʜɪꜱ ɢᴜʏ ɪꜱ ʙᴏᴛ'ꜱ ᴏᴡɴᴇʀ")
           elif int(id) == OWNER_ID:
                 await e.reply_text("» ɴᴏ, ᴛʜɪꜱ ɢᴜʏ ɪꜱ ᴏᴡɴᴇʀ ᴏꜰ ᴛʜᴇ ʙᴏᴛꜱ.")
           elif int(id) in SUDO_USERS:
