@@ -87,4 +87,4 @@ async def dmspam(client: Client, message: Message):
                 await asyncio.sleep(0.3)
 
     else:
-        await message.reply_text("😈 ᴜsᴀɢᴇ:\n .dmspam 13 <ᴜꜱᴇʀ ɪᴅ> Altron\n .dmspam 13 Altron <ʀᴇᴘʟʏ ᴛᴏ ᴜsᴇʀ>")
+        await message.reply_text("😈 ᴜsᴀɢᴇ:\n .dmspam 13 <ᴜꜱᴇʀ ɪᴅ> Shinning spam\n .dmspam 13 Altron <ʀᴇᴘʟʏ ᴛᴏ ᴜsᴇʀ>")
