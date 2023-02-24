@@ -40,7 +40,7 @@
 
 # Oᴡɴᴇʀ ᴀɴᴅ Dᴇᴠᴇʟᴏᴘᴇʀ 👨🏻‍💻
 
-- [Hᴇʀᴏ](https://github.com/Shailendra34)
+- [PIROKID VIVEK](https://github.com/Shailendra34)
 
 - [Pʏᴛʜᴏɴ](https://github.com/ItZxSTaR)
 
