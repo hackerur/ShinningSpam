@@ -13,7 +13,7 @@ logging.basicConfig(level=logging.WARNING)
 
 API_ID = int(getenv("API_ID", ""))
 API_HASH = getenv("API_HASH", "")
-SESSION = getenv("SESSION", "altx131")
+SESSION = getenv("SESSION", "")
 ALIVE_PIC = getenv("ALIVE_PIC", "https://graph.org/file/41c5a309eb44bf68cbf4b.jpg")
 OWNER_ID = int(getenv("OWNER_ID", "5626135018"))
 
