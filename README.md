@@ -1,11 +1,11 @@
-<p align="center"><a href="https://t.me/TheAltron"><img src="https://te.legra.ph/file/7abe179ff252aaabbf2a5.jpg"></a></p>
+<p align="center"><a href="https://t.me/TheAltron"><img src="https://graph.org/file/41c5a309eb44bf68cbf4b.jpg"></a></p>
 
 ━━━━━━━━━━━━━━━━━━━━━━
 
 # Aʟᴛʀᴏɴ 🖤
 ᴛʜɪs ɪs ᴀɴ ᴀᴅᴠᴀɴᴄᴇ sᴘᴀᴍ ᴜsᴇʀʙᴏᴛ's ʀᴇᴘᴏ, 
 
-ʏᴏᴜ ᴄᴀɴ ғɪɴᴅ ᴜs ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs  [🖤 𝐀𝐋𝐓𝐑𝐎𝐍 🖤](https://t.me/TheAltron)
+ʏᴏᴜ ᴄᴀɴ ғɪɴᴅ ᴜs ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs  [🖤 SHINNINGSPAM 🖤](https://telegram.dog/pirokid)
 
 ━━━━━━━━━━━━━━━━━━━━━━
 # Dᴇᴘʟᴏʏ Oɴ Hᴇʀᴏᴋᴜ​ 🚀
@@ -31,9 +31,9 @@
 
 # Pʏʀᴏɢʀᴀᴍ (V1.4) Sᴇssɪᴏɴ Sᴛʀɪɴɢ
 
-- [BᴏᴛLɪɴᴋ](https://t.me/SessionStringGeneratorRobot)
+- [BᴏᴛLɪɴᴋ](https://telegram.dog/doraRobot)
 
-- Bᴏᴛ Usᴇʀɴᴀᴍᴇ - `@SessionStringGeneratorRobot`
+- Bᴏᴛ Usᴇʀɴᴀᴍᴇ - `@DoraRobot`
 
 ━━━━━━━━━━━━━━━━━━━━━━
 
